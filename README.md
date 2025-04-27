@@ -17,8 +17,7 @@ o	Data Cleaning and Transformation in Excel
 	Objective:
 The goal of this project is to create an interactive dashboard that summarizes large datasets into meaningful and actionable insights for business strategy and reporting purposes.
 
-Preview:
-Sales Dashboard																				
+
 																				
-![image](https://github.com/user-attachments/assets/51444e8a-b038-47ab-9e22-e75fd00259f9)
+
 
